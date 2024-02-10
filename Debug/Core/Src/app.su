@@ -1,0 +1,8 @@
+../Core/Src/app.c:65:6:appInit	8	static
+../Core/Src/app.c:86:6:sampleUserButton	8	static
+../Core/Src/app.c:97:25:getGyroRateOfRotation	16	static
+../Core/Src/app.c:142:6:driveLEDs	8	static
+../Core/Src/app.c:182:6:appTaskInit	8	static
+../Core/Src/app.c:199:13:appTask	16	static
+../Core/Src/app.c:223:6:validateAppTaskState	4	static
+../Core/Src/app.c:242:13:validateOSStatus	4	static
